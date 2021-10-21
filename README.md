@@ -1,2 +1,2 @@
 # police-brutality-project
-# Initiative to address police brutality,
+# Initiative to address police brutality
